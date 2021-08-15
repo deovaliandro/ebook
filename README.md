@@ -1,0 +1,44 @@
+List book:
+
+- [ ] Boolean Functions and Their Applications in Cryptography - Chuan-Kun Wu, Dengguo Feng 2016
+- [ ] Cryptography and Network Security - Ajay Kumar, S. Bose 2016
+- [ ] Information Theory Coding And Cryptography - Ranjan Bose 2016
+- [ ] Group Theoretic Cryptography - Maria Isabel Vasco, Spyros Magliveras, Rainer Steinwandt 2017
+- [ ] Cryptography: Theory and Practice (Textbooks in Mathematics) Douglas R. Stinson, Maura Paterson 2018
+- [ ] Numbers, Groups and Cryptography - Gordan Savin 2018
+- [ ] Cryptography and Network Security: Principles and Practice, Global Edition - William Stallings 2017
+- [ ] Arithmetic, Geometry, Cryptography and Coding Theory - Alp Bassa, Alain Couvreur, David Kohel 2017
+- [ ] Modern Cryptography and Elliptic Curves: A Beginner’s Guide - Thomas R. Shemanske 2017
+- [ ] A graduate course in Applied Cryptography - Dan Boneh, Victor Shoup 2017 :::::::::::::::::::::::::::::::::::::::::
+- [ ] A Course in Cryptography - Heiko Knospe 2019
+- [ ] Abstract Algebra: Applications to Galois Theory, Algebraic Geometry, Representation Theory and Cryptography - Celine Carstensen-Opitz, Benjamin Fine, Anja Moldenhauer, Gerhard Rosenberger 2019
+- [ ] Boolean Functions for Cryptography and Coding Theory - Claude Carlet 2020
+- [ ] New Frontiers in Cryptography: Quantum, Blockchain, Lightweight, Chaotic and DNA - Khaled Salah Mohamed 2020
+- [ ] Quantum Cryptography and the Future of Cyber Security - Nirbhay Kumar Chaubey, Bhavesh B. Prajapati 2020
+- [ ] Cryptography - Keith Martin 2020
+- [ ] Implementing Cryptography Using Python - Shannon W. Bray 2020
+- [ ] Advances of DNA computing in cryptography - Deka, Ganesh Chandra, Namasudra, Suyel 2019
+- [ ] MTH6115: Cryptography, 2018/2019 - John Bray 2019
+- [ ] Modern-Cryptography-Proof Techniques and Implementations 2021
+- [ ] Fundamentals of Cryptography: Introducing Mathematical and Algorithmic Foundations (Undergraduate Topics in Computer Science) - Duncan Buell 2021
+- [ ] Lattice-Based Public-Key Cryptography in Hardware - Sujoy Sinha Roy, Ingrid Verbauwhede 2020
+- [ ] Discrete Mathematics: Graph Algorithms, Algebraic Structures, Coding Theory, and Cryptography - Sriraman Sridharan, R. Balakrishnan 2020
+- [ ] Semirings as Building Blocks in Cryptography - Mariana Durcheva 2020
+- [ ] Math 422 Coding Theory & Cryptography [Lecture notes] - John C. Bowman 2015
+- [ ] Applied Cryptography: Protocols, Algorithms and Source Code in C - Bruce Schneier 2015
+- [ ] Public Key Cryptography: Applications and Attacks - Lynn Margaret Batten(auth.), Stamatios Kartalopoulos(eds.) 2013
+- [ ] Computational Number Theory and Modern Cryptography - Song Y. Yan 2013
+- [ ] Introduction to Cryptography: Principles and Applications - Hans Delfs, Helmut Knebl (auth.) 2015
+- [ ] Codes and Cryptography [Lecture notes] - T. K. Carne 2015
+- [ ] Notes on Public Key Cryptography And Primality Testing Part 1: Randomized Algorithms Miller–Rabin and Solovay–Strassen Tests [lecture notes] - Jean Gallier 2015
+- [ ] Algebraic Curves in Cryptography - San Ling, Huaxiong Wang, Chaoping Xing 2013
+- [ ] An Introduction to Number Theory with Cryptography - Kraft, James S., Washington, Lawrence C 2013
+- [ ] Cryptography in C & C++, 2nd Edition - Michael Welschenbach 2013
+- [ ] Cryptography and Network Security: Principles and Practice - William Stallings 2014
+- [ ] Coding and Cryptography - Tom W. Körner 2014
+- [ ] Finite Fields and Symmetric Cryptography [Lecture notes] - Andrea Caranti 2014
+- [ ] Mathematics of Public Key Cryptography - Steven D. Galbraith 2012
+- [ ] Cryptography -- Lecture notes - Mohamed Barakat, Timo Hanke 2012
+- [ ] Finite geometries, LDPC codes and cryptography - Vasyl Ustimenko, Urszula Romańczuk 2012
+- [ ] Abstract Algebra: Applications to Galois Theory, Algebraic Geometry and Cryptography - Gerhard Rosenberger 2011
+- [ ] Chaos-Based Cryptography: Theory,Algorithms and Applications - Dimitar Solev, Predrag Janjic, Ljupco Kocarev (auth.), Ljupco Kocarev, Shiguo Lian (eds.) 2011
